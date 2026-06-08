@@ -1,0 +1,20 @@
+const sweetsProduct = [
+  { id: 1, name: "Amul Chocomini Choclate", image: "/Sweets/Amul choclate.webp", rating: 4.0, price:"138" },
+  { id: 2, name: "Cadbury Dairy Milk Silk", image: "/Sweets/Silk.webp", rating: 4.0, price:"96" },
+  { id: 3, name: "KitKat Chocolate Coated Wafer", image: "/Sweets/Kitkat.webp", rating: 4.0, price:"250" },
+  { id: 4, name: "Cadbury Dairy Milk", image: "/Sweets/Dairy milk.webp", rating: 4.0, price:"100" },
+  { id: 5, name: "Dark Fantasy Yumfills Pie", image: "/Sweets/Dark Fantasy.webp", rating: 4.0, price:"170" },
+  { id: 6, name: "Bakamate Bourbon Biscuits", image: "/Sweets/Bourbon.webp", rating: 4.0, price:"80" },
+  { id: 7, name: "Ferrero Rocher Chocolate", image: "/Sweets/Ferrero Choclate.webp", rating: 4.0, price:"255" },
+  { id: 8, name: "Cadbury Chocobakes Choc Filled Cookies", image: "/Sweets/Cookies.webp", rating: 4.0, price:"250" },
+  { id: 9, name: "Sunshine Nuts Gems", image: "/Sweets/Gems.webp", rating: 4.0, price:"10" },
+  { id: 10, name: "Gulab Jamuns Powder", image: "/Sweets/Gulab jamun.webp", rating: 4.0, price:"60" },
+  { id: 11, name: "Parle Hide & Seek Choco Chip", image: "/Sweets/Hide&seek.webp", rating: 4.0, price:"80" },
+  { id: 12, name: "Kinder Joy Chocolate", image: "/Sweets/kinderjoy.webp", rating: 4.0, price:"50" },
+  { id: 13, name: "Cadbury Oreo Creme Biscuit", image: "/Sweets/oreo.webp", rating: 4.0, price:"40" },
+  { id: 14, name: "Haldiram's Rasgulla", image: "/Sweets/Rasgulla.webp", rating: 4.0, price:"255" },
+  { id: 15, name: "Parle Premium Rusk", image: "/Sweets/Rusk Toast.webp", rating: 4.0, price:"150" },
+  { id: 16, name: "Royal Bikaner Soan Papdi", image: "/Sweets/Sonpapdi.webp", rating: 4.0, price:"230" },
+  { id: 17, name: "Sweet Heart Biscuit", image: "/Sweets/Sweet BISCUITS.webp", rating: 4.0, price:"195" },
+];
+ export default sweetsProduct;
